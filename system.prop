@@ -132,3 +132,6 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+# Burn-in protection
+ro.systemui.burn_in_protection=true
