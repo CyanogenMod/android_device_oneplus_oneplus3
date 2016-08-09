@@ -1,3 +1,12 @@
+# Country
+ro.build.target_country=JP
+ro.product.locale=ja-JP
+ro.product.locale.language=ja
+ro.product.locale.region=JP
+persist.sys.language=ja
+persist.sys.country=JP
+persist.sys.timezone=Asia/Tokyo
+
 # Audio
 ro.qc.sdk.audio.ssr=false
 ro.qc.sdk.audio.fluencetype=fluence
